@@ -1,0 +1,17 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+python-multipart==0.0.20
+pydantic==2.11.7
+pydantic-settings==2.10.1
+httpx==0.28.1
+openai==1.99.9
+langchain==0.3.27
+langchain-openai==0.3.30
+langchain-core==0.3.74
+langgraph==0.6.4
+sqlalchemy==2.0.43
+psycopg[binary]==3.2.9
+pgvector==0.4.1
+redis==6.4.0
+python-jose[cryptography]==3.5.0
+eval_type_backport==0.2.2
